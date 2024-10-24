@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning JavaScript, Html, CSS, Python & C#
 - 📫 Contact me by email (contactchosenservices@gmail.com)
 - 😄 Male
-- ⚡ Fun fact: You're will be hiring me ;)
+- ⚡ Fun fact: You will be hiring me ;)
